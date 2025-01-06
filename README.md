@@ -1,12 +1,12 @@
 # Hello, I'm Damilare Ade! 👋
 
-![Colorful Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile!)
+![Colorful Header](https://github.com/DamilareAde/DamilareAde/assets/banner.png)
 
 I specialize in **Flutter mobile development** and **frontend web design** with HTML/CSS. Passionate about building user-centric interfaces and delivering modern, sleek designs.
 
 ### 🌟 Achievements
 - 🏆 **Senior Frontend Developer** on **Go Now**.
-- 🚀 Contributed to **GoNow** and **---** projects.
+- 🚀 Contributed to **GoNow** and **Frandis** projects.
 - 💻 Over **500+ contributions in 2024**.
 
 ### 🔧 Technologies & Tools
