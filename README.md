@@ -41,7 +41,7 @@ I specialize in **Flutter mobile development** and **frontend web design** with 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamilareAde&layout=compact&theme=dracula&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamilareAde&theme=dracula&hide_border=true&ring_color=FF00FF" />
+  <img src="https://streak-stats.demolab.com?user=DamilareAde&theme=dracula&hide_border=true&ring_color=FF00FF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -66,6 +66,13 @@ I specialize in **Flutter mobile development** and **frontend web design** with 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="250" />
 </p>
+
+#### My Tech To-Do List
+- [ ] Build a **cross-platform game** using Flutter and C++ for high-performance logic.
+- [ ] Create a **full-stack web app** with JavaScript (frontend) and PHP (backend).
+- [ ] Develop an **AI-powered mobile app** integrating Firebase and Java.
+- [ ] Contribute to an **open-source Flutter plugin** to give back to the community.
+- [ ] Master **Web3 development** with JavaScript and deploy a decentralized app.
 
 ---
 
