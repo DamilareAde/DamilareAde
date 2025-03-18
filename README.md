@@ -41,7 +41,7 @@ I’m a **Flutter mobile developer** and **frontend web designer** (HTML/CSS), p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamilareAde&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DamilareAde&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DamilareAde&theme=radical&hide_border=true&background=transparent&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -57,6 +57,7 @@ I’m a **Flutter mobile developer** and **frontend web designer** (HTML/CSS), p
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://x.com/your-username"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
