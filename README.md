@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" />
 
-### ⚡ Senior Frontend & Mobile Developer
+### ⚡ Frontend & Mobile Developer
 *Turning coffee into code since 2024*
 
 ---
