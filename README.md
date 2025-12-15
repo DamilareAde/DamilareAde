@@ -26,7 +26,7 @@
 ---
 
 ### 🎯 Current Objectives
-- [ ] 📱 **Architecture:** Implement Clean Architecture + Riverpod in a production app.
+- [✔️] 📱 **Architecture:** Implement Clean Architecture + Riverpod in a production app.
 - [ ] 🌐 **Full Stack:** Integrate PHP Backend with a Flutter Frontend.
 - [ ] 🕹️ **Core:** Develop a lightweight game engine in C++.
 - [ ] 🤝 **Community:** Submit first major PR to the Flutter repo.
