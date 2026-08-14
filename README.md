@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Olorunfemi Adebowale Damilare 👋</h1>
-<h3 align="center">Full Stack Software Engineer, Lagos, Nigeria</h3>
+<h3 align="center">Full Stack Software Engineer &middot; Lagos, Nigeria</h3>
 
 <p align="center">
   <a href="https://adebowale.web.app"><img src="https://img.shields.io/badge/Portfolio-adebowale.web.app-E8B04B?style=flat-square" alt="Portfolio" /></a>
@@ -7,46 +7,65 @@
   <img src="https://img.shields.io/badge/Open%20to-Hybrid%20Roles-3FCE86?style=flat-square" alt="Open to hybrid roles" />
 </p>
 
-I build production fintech systems: payment pipelines, encrypted mobile apps, and backend APIs
-designed to handle real money, reliably. Shipping fintech, mobile, and SaaS products since 2022,
-mostly in Flutter and PHP/Laravel, at the intersection of mobile and financial infrastructure.
+<p align="center">
+  I build production fintech systems: payment pipelines, encrypted mobile apps, and backend APIs<br />
+  designed to handle real money, reliably. Shipping fintech, mobile, and SaaS products since 2022,<br />
+  mostly in Flutter and PHP/Laravel, at the intersection of mobile and financial infrastructure.
+</p>
 
-- 🎓 B.Sc. Computer Science, Caleb University, Lagos (2026)
-- 🥇 Caleb University (CalebPay, my final year project)
-- 🥉 3rd Place, Caleb University HR Innovation Competition (WorkforceMS)
-- 🔭 Currently building  products with Flutter, Supabase, and Groq AI
-- 💬 Ask me about HMAC-verified webhooks, idempotent payment flows, or Postgres Row Level Security
+<br />
+
+|     |     |
+|-----|-----|
+| 🎓 | B.Sc. Computer Science, Caleb University, Lagos (2026) |
+| 🥇 | Caleb University Buildathon &middot; **CalebPay**, my final year project |
+| 🥉 | 3rd Place, Caleb University HR Innovation Competition &middot; **WorkforceMS** |
+| 🔭 | Currently building products with Flutter, Supabase, and Groq AI |
+| 💬 | Ask me about HMAC-verified webhooks, idempotent payment flows, or Postgres Row Level Security |
+
+<br />
 
 ## Tech Stack
 
-**Mobile**
-<br />
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-**Frontend & Web**
-<br />
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & Data**
-<br />
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Fintech, Security & AI**
-<br />
-![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="17%"><b>Mobile</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend &amp; Web</b></td>
+<td>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend &amp; Data</b></td>
+<td>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Fintech, Security &amp; AI</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ## Featured Projects
 
