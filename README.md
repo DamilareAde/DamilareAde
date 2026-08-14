@@ -12,9 +12,9 @@ designed to handle real money, reliably. Shipping fintech, mobile, and SaaS prod
 mostly in Flutter and PHP/Laravel, at the intersection of mobile and financial infrastructure.
 
 - 🎓 B.Sc. Computer Science, Caleb University, Lagos (2026)
-- 🥇 1st Place, Caleb University Buildathon (CalebPay, my final year project)
+- 🥇 Caleb University (CalebPay, my final year project)
 - 🥉 3rd Place, Caleb University HR Innovation Competition (WorkforceMS)
-- 🔭 Currently building fintech and civic tech products with Flutter, Supabase, and Groq AI
+- 🔭 Currently building  products with Flutter, Supabase, and Groq AI
 - 💬 Ask me about HMAC-verified webhooks, idempotent payment flows, or Postgres Row Level Security
 
 ## Tech Stack
