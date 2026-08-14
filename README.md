@@ -52,10 +52,9 @@ mostly in Flutter and PHP/Laravel, at the intersection of mobile and financial i
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🥇 **CalebPay** | Student fee payment platform, Paystack + HMAC-SHA512 webhook verification, idempotent transaction handling. Cut confirmation time from 40 minutes to 90 seconds. 1st Place, Caleb University Buildathon. | Flutter, Supabase, Paystack, PostgreSQL |
+| **CalebPay** | Student fee payment platform, Paystack + HMAC-SHA512 webhook verification, idempotent transaction handling. Cut confirmation time from 40 minutes to 90 seconds. | Flutter, Supabase, Paystack, PostgreSQL |
 | [**Lagos State Environmental Complaint Portal**](https://env-complaint-portal.web.app) | Civic tech app for reporting environmental issues, with Groq AI (LLaMA 3.1) powering complaint severity detection and AI-assisted report writing. | Firebase Auth, Firestore, Supabase Storage, Groq AI, Chart.js |
 | 🥉 **WorkforceMS** | Multi-tenant HR platform with PostgreSQL Row Level Security across 30+ tables and AI-powered candidate screening. 3rd Place, Caleb University HR Innovation Competition. | Flutter, Supabase, PostgreSQL |
-| [**SaveCircle**](https://www.savecircle.app/) | Core Mobile Developer on a live fintech app. Swift and Kotlin native bridges for secure transaction processing and background sync. | Flutter, Swift, Kotlin, React, Next.js |
 | [**Dropsytl**](https://beta.dropstyl.com/) | Fashion e-commerce app with feature-first architecture and AES-encrypted session storage. | Flutter, Cubit/BLoC, Dio, Hive |
 | **PhishGuard** | Phishing detection system for Nigerian fintech platforms. Late-fusion ensemble of DOM analysis, NLP, and computer vision. F1 = 0.84 on real-world data. | Python, NLP, Computer Vision |
 
