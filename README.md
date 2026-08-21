@@ -18,9 +18,9 @@
 |     |     |
 |-----|-----|
 | 🎓 | B.Sc. Computer Science, Caleb University, Lagos (2026) |
-| 🥇 | Caleb University Buildathon &middot; **CalebPay**, my final year project |
+| 🥇 |  &middot; **CalebPay**, my final year project |
 | 🥉 | 3rd Place, Caleb University HR Innovation Competition &middot; **WorkforceMS** |
-| 🔭 | Currently building products with Flutter, Supabase, and Groq AI |
+| 🔭 | Currently building products with Flutter|
 | 💬 | Ask me about HMAC-verified webhooks, idempotent payment flows, or Postgres Row Level Security |
 
 <br />
